@@ -3,10 +3,7 @@
 
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
- <a href="#roadmap">Roadmap</a> • 
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#contribuicao">Contribuição</a> • 
- <a href="#licenc-a">Licença</a> • 
+ <a href="#tecnologias">Tecnologias</a> •  
  <a href="#autor">Autor</a>
 </p>
 
@@ -22,3 +19,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [CSS]
 - [JavaScript]
 
+Autor
+Rodrigo Andrade 🚀
+
+Twitter Badge Linkedin Badge 
