@@ -1,4 +1,4 @@
-# E-commerce mockup 
+<h1 align="center">E-commerce mockup</h1>
 <p align="center">Projeto pessoal de um e-commerce voltado a venda de artigos esportivos.</p>
 
 <p align="center">
