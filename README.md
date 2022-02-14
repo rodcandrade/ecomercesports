@@ -19,7 +19,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [CSS]
 - [JavaScript]
 
-Autor
+Autor <br>
 Rodrigo Andrade 🚀
-
-Twitter Badge Linkedin Badge 
